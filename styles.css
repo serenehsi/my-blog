@@ -2,14 +2,32 @@
 /* CSS Document */
 body{background-color: lightblue;}
 p{
-	color: burlywood;
-	text-align: right;
-
+	
 }
-
+#firstp
+{
+	line-height: 1.8;
+	font-family: "Times New Roman","Hoefler Text","DejaVu Sans";
+	color: burlywood;
+	text-align: right;	
+}
+#secondp
+{
+	line-height: 3;
+	font-family: "Times New Roman","Hoefler Text","DejaVu Sans";
+	color: chocolate ;
+	text-align: right;	
+}
+.blue{
+	color: darkslateblue;
+}
+.pink{
+	color: palevioletred
+}
 h1 {
 	color: #C3644F;
 	text-align:center;
 }
-
-
+a{
+	text-decoration: none;
+}
